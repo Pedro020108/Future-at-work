@@ -1,7 +1,7 @@
 # GS2 - Future at Work
 
 ## Descrição do projeto
-Este projeto foi desenvolvido para o desafio Global Solution 2025.2, do curso de Ciência da Computação.  
+Este projeto foi desenvolvido para o desafio Global Solution 2025.2, no curso de Ciência da Computação.  
 O objetivo é criar uma ferramenta simples que analisa perfis profissionais e gera recomendações de carreiras, com base em competências, experiências e certificados do usuário.
 
 ## Funcionalidades
@@ -13,7 +13,7 @@ O objetivo é criar uma ferramenta simples que analisa perfis profissionais e ge
 ## Estrutura do projeto
 - `perfil.py` : define a classe `Perfil` para armazenar e organizar dados do usuário.  
 - `carreira.py` : define a classe `Carreira` com competências relevantes de cada carreira.  
-- `recomendar.py` : define a classe `Recomendar`, responsável por avaliar perfis e recomendar carreiras.  
+- `recomendar.py` : define a classe `Recomendador`, responsável por avaliar perfis e recomendar carreiras.  
 - `main.py` : arquivo principal que cria os perfis e carreiras, executa a análise e imprime os resultados.
 
 ## Como executar
@@ -27,3 +27,7 @@ O objetivo é criar uma ferramenta simples que analisa perfis profissionais e ge
 
 ## Sobre o código
 O sistema é feito em Python usando Programação Orientada a Objetos. Ele organiza os dados em classes e usa listas e dicionários para armazenar informações. A análise é feita verificando quantas competências do perfil coincidem com as competências de cada carreira.
+
+## Link do Vídeo do Youtube
+
+https://youtu.be/zbQqWZ_9ncs 
