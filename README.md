@@ -19,11 +19,9 @@ O objetivo é criar uma ferramenta simples que analisa perfis profissionais e ge
 ## Como executar
 1. Clone o repositório:  
    `git clone https://github.com/Pedro020108/Future-at-work/tree/main/GS2-Python`   
-2. Entre na pasta do projeto:  
-    `GS2-Python`  
-3. Execute o script principal:  
+2. Execute o script principal:  
    `python main.py`  
-4. Confira no terminal o resumo do perfil e as recomendações de carreira.
+3. Confira no terminal o resumo do perfil e as recomendações de carreira.
 
 ## Sobre o código
 O sistema é feito em Python usando Programação Orientada a Objetos. Ele organiza os dados em classes e usa listas e dicionários para armazenar informações. A análise é feita verificando quantas competências do perfil coincidem com as competências de cada carreira.
